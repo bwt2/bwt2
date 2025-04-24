@@ -1,4 +1,4 @@
-![![image](https://github.com/user-attachments/assets/0dc9c0db-165f-460d-853e-c226e72294d6)](https://btja.vercel.app/)
+[![image](https://github.com/user-attachments/assets/0dc9c0db-165f-460d-853e-c226e72294d6)](https://btja.vercel.app/)
 
 <!--
 **bwt2/bwt2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
