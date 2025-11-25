@@ -1,6 +1,8 @@
-# ✦ [Hello World, I'm Brian](https://btja.vercel.app/) ✦
+<h1 align="center">Hello World, I'm Brian</h1>
 
-[![image](https://github.com/user-attachments/assets/0dc9c0db-165f-460d-853e-c226e72294d6)](https://btja.vercel.app/)
+<p align="center">https://bwt2.github.io</p>
+
+<img width="1795" height="968" alt="screenshot of my site" src="https://github.com/user-attachments/assets/aee2851a-18bb-40e1-ae38-bced37b0e468" />
 
 <!--
 **bwt2/bwt2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
