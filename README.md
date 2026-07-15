@@ -7,7 +7,7 @@
 　　　.　✵•　**　　•　*　　　°　　　　　　　　　　　　　　　　°°　.　
 
 <p align="center">
-  Hi, i'm <a href="https://bwt2.github.io/" target="_blank">Brian</a> 💫
+  Hi, i'm <a href="https://btja.pages.dev/" target="_blank">Brian</a> 💫
 </p>
 
 .　　..　　　　　.　　**
